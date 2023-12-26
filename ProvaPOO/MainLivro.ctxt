@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MainLivro
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scanner
+comment2.target=void\ emprestarLivro(java.util.Scanner)
+comment3.params=scanner
+comment3.target=void\ devolverLivro(java.util.Scanner)
+comment4.params=scanner
+comment4.target=void\ verificarDisponibilidade(java.util.Scanner)
+numComments=5

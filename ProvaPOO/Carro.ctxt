@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Carro
+comment1.params=marca\ modelo
+comment1.target=Carro(java.lang.String,\ java.lang.String)
+comment2.params=incremento
+comment2.target=void\ acelerar(int)
+comment3.params=reducao
+comment3.target=void\ frear(int)
+comment4.params=
+comment4.target=int\ getVelocidadeAtual()
+comment5.params=
+comment5.target=void\ exibirDetalhes()
+numComments=6
